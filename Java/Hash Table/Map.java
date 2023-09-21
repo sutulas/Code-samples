@@ -1,5 +1,5 @@
 /*
- * Author: Amittai Aviram - aviram@bc.edu
+ * Author: Seamus Sutula - sutulas@bc.edu
  */
 
 public interface Map<K, V> {
