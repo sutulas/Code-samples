@@ -5,9 +5,8 @@ Created on Fri Dec 15 09:39:14 2023
 @author: sutul
 """
 
-# 12. Consider the RNN ft to the NYSE data in Section 10.9.6. Modify the
-# code to allow inclusion of the variable day_of_week, and ft the RNN.
-# Compute the test R2.
+# Fit RNN to the NYSE data
+
 
 from dl_imports import *
 
