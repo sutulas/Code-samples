@@ -5,10 +5,10 @@ Created on Mon Dec 11 13:58:09 2023
 @author: sutul
 """
 
-# 8. From your collection of personal photographs, pick 10 images of an￾imals 
+# From your collection of personal photographs, pick 10 images of an￾imals 
 # (such as dogs, cats, birds, farm animals, etc.). If the subject
 # does not occupy a reasonable part of the image, then crop the image.
-# Now use a pretrained image classifcation CNN as in Lab 10.9.4 to
+# Now use an image classifcation CNN to
 # predict the class of each of your images, and report the probabilities
 # for the top fve predicted classes for each image
 
